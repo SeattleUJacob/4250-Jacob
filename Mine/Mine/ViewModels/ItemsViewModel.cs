@@ -17,7 +17,7 @@ namespace Mine.ViewModels
 
         public ItemsViewModel()
         {
-            Title = "Browse";
+            Title = "Item";
             Items = new ObservableCollection<ItemModel>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 
