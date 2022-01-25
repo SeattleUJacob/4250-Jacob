@@ -25,8 +25,8 @@
     <Compile Update="Views\Items\ItemReadPage.xaml.cs">
       <DependentUpon>ItemReadPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\Items\ItemIndePage.xaml.cs">
-      <DependentUpon>ItemIndePage.xaml</DependentUpon>
+    <Compile Update="Views\Items\ItemIndexPage.xaml.cs">
+      <DependentUpon>ItemIndexPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
